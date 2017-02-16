@@ -189,6 +189,10 @@ section.success {
   background: #18BC9C;
   color: white;
 }
+section.success.a {
+  color: #fff;
+  outline: none;
+}
 section.contact {
   background: #18BC9C;
   color: white;
